@@ -73,9 +73,6 @@ If you know, you know.
 
 ## 📂 Projects (a.k.a experiments gone right)
 
-- **JunkOS** — a cursed minimal Linux build that only I can love.  
-- **P4ND0RA** — my Python-based recon framework that doesn’t like being stared at.  
-- **GhostTrack** — real-time network mapping tool (with attitude).  
 - **CR1Vault** — my private exploit archive (and no, you can’t see it).  
 
 ---
